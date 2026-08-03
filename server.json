@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
-  "name": "io.github.bharatdharmaacademy/bda-mcp",
+  "name": "io.github.BharatDharmaAcademy/bda-mcp",
   "description": "Jyotish, Panchang, Hindu festival and Sanatan Dharma knowledge tools with citations.",
   "repository": {
     "url": "https://github.com/BharatDharmaAcademy/bda-mcp",
